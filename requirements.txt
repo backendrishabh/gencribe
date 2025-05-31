@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+whisper
+pyannote.audio
+torch
+torchaudio
+openai
+#command line to run on server "uvicorn main:app --reload"
